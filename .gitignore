@@ -1,0 +1,16 @@
+myenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+uploaded_file.*
+uploaded_image.png
+captured_image.png
+highlighted_image.png
+document.png
+.DS_Store
+Thumbs.db

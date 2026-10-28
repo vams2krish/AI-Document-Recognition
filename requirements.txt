@@ -1,0 +1,10 @@
+# Direct dependencies; versions are unpinned because no tested lockfile exists.
+streamlit
+opencv-python
+Pillow
+numpy
+pytesseract
+spacy
+PyMuPDF
+python-docx
+ollama

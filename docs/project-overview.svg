@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#0c1427"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="70" y="78" fill="#62dbc4" font-size="18" letter-spacing="4">AI / COMPUTER VISION / NATURAL LANGUAGE PROCESSING</text>
+<text x="70" y="150" fill="#ffffff" font-size="52" font-weight="700">Document Recognition</text>
+<text x="70" y="194" fill="#b5c4de" font-size="23">From document images to extracted text and language review cues.</text>
+<rect x="70" y="248" width="320" height="248" rx="18" fill="#182640"/>
+<rect x="480" y="248" width="320" height="248" rx="18" fill="#182640"/>
+<rect x="890" y="248" width="320" height="248" rx="18" fill="#182640"/>
+<g fill="#62dbc4" font-size="18"><text x="98" y="289">01 / CAPTURE</text><text x="508" y="289">02 / EXTRACT</text><text x="918" y="289">03 / ANALYZE</text></g>
+<g fill="white" font-size="27" font-weight="600"><text x="98" y="337">Document inputs</text><text x="508" y="337">Readable text</text><text x="918" y="337">Language signals</text></g>
+<g fill="#b5c4de" font-size="20"><text x="98" y="386">Camera / PNG / JPG</text><text x="98" y="422">PDF text / DOCX*</text><text x="98" y="458">Streamlit interface</text><text x="508" y="386">Tesseract OCR</text><text x="508" y="422">Word bounding boxes</text><text x="508" y="458">OpenCV annotations</text><text x="918" y="386">spaCy parsing + rules</text><text x="918" y="422">Speculative language</text><text x="918" y="458">Potential ambiguity cues</text></g>
+<path d="M410 372h48m-12-10 12 10-12 10M820 372h48m-12-10 12 10-12 10" stroke="#62dbc4" stroke-width="3" fill="none"/>
+<text x="70" y="548" fill="#b5c4de" font-size="18">Experimental branch: local LLaVA 7B vision prompting through Ollama.</text>
+<text x="70" y="586" fill="#8294b2" font-size="16">Project architecture illustration, not an app screenshot. *DOCX upload routing needs a fix in app5.py.</text>
+</g></svg>
